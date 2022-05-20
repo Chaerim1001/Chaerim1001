@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20chaerim&fontSize=90)
 
 <div align=center>
-  :wave: Introduction
-  
-  🔭 계속 공부하는 개발자 채림입니다 🔭
+
   
   :star: Skill
   
