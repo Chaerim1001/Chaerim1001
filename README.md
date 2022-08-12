@@ -22,7 +22,9 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaerim1001)](https://github.com/Chaerim1001/github-readme-stats)
  
   </br>
-   :star: Tistory
+   :star: Blog
+   
+   https://velog.io/@chaerim1001
    
    https://chaerim1001.tistory.com/
   
