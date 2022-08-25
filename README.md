@@ -25,8 +25,7 @@
    :star: Blog
    
    https://velog.io/@chaerim1001
-   
-   https://chaerim1001.tistory.com/
+
   
 </div>
 
