@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20%20chaerim&fontSize=90)
-
 <div align=center>
-
-  
-  :star: Tech Stack :star:
   
    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
@@ -21,8 +16,6 @@
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaerim1001)](https://github.com/Chaerim1001/github-readme-stats)
  
-  </br>
-   :star: Blog
    
    https://velog.io/@chaerim1001
    <br>
