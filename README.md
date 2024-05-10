@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chaerim1001"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim1001&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=6"/>
   
   ### Chaerim 🐥
   
@@ -15,10 +15,7 @@
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
- --- 
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerim1001&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=6"/>
+  
 
 
 </div>
